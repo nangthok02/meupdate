@@ -7,11 +7,8 @@
 
 Base: 53280000
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Nuevo Systema de Actualización 
-
- Actualización AntiBaneo disponible ",
+Silahkan download dan update aplikasi grab Driver
+Klik Download link di bawah ini untuk memperbarui aplikasi ",
 "download":"https://youtu.be/rY2otd2NacA"
 }
   ]
