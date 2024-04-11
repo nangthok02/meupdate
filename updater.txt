@@ -1,13 +1,11 @@
 {
-  "grab_update": [
+  "sal_update": [
     {
  "version":"5.328.0",
  "title":"Update Tersedia",
  "description":"Grab Versi Terbaru V5.328.0
 
 Base: 53280000
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Silahkan Update aplikasi grab anda
 
