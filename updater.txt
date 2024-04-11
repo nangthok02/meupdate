@@ -1,11 +1,11 @@
 {
   "salmod_update": [
     {
- "version":"9.62",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "version":"5.328.0",
+ "title":"Update Tersedia",
+ "description":"Versi Terbaru V5.328.0
 
-Base: 2.23 1.76
+Base: 53280000
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
