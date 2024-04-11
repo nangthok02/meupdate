@@ -1,7 +1,7 @@
 {
   "sal_update": [
     {
- "version":"5.328.0",
+ "version":"5.328",
  "title":"Update Tersedia",
  "description":"Grab Versi Terbaru V5.328.0
 
