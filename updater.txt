@@ -1,15 +1,18 @@
 {
   "sal_update": [
     {
- "version":"5.328.0",
- "title":"Update Tersedia",
- "description":"Grab Versi Terbaru V5.328.0
+ "version":"9.62",
+ "title":"Update Disponible",
+ "description":"RewhasApp Oficial V9.65
 
+Base: 2.23 1.76
 
-Silahkan Update aplikasi grab anda
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
- Klik Downloa di bawah ini untuk memperbarui ",
-"download":"https://fileu.cloud"
+Nuevo Systema de Actualización 
+
+ Actualización AntiBaneo disponible ",
+"download":"https://youtu.be/rY2otd2NacA"
 }
   ]
 }
