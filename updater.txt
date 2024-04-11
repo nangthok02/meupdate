@@ -1,5 +1,5 @@
 {
-  "sal_update": [
+  "salmod_update": [
     {
  "version":"9.62",
  "title":"Update Disponible",
