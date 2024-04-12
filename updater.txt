@@ -9,7 +9,7 @@ Base: 53280000
 
 Silahkan download dan update aplikasi grab Driver
 Klik Download link di bawah ini untuk memperbarui aplikasi ",
-"download":"https://1drv.ms/u/c/7838ad3da52be8b1/EY8bAUp6sa9JhWRprk1Z9M0Bnq9GMOK9mgO-0I2TjAEUOw"
+"download":"https://drive.google.com/file/d/1-_BD5WVRSJW3H2Zu2OcFyz29ECTNESjz/view?usp=drivesdk"
 }
   ]
 }
