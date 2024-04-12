@@ -1,11 +1,11 @@
 {
   "salmod_update": [
     {
- "version":"5.328.0",
+ "version":"5.329.0",
  "title":"Update Tersedia",
  "description":"Versi Terbaru V5.328.0
 
-Base: 53280000
+Base: 53290000
 
 Silahkan download dan update aplikasi grab Driver
 Klik Download link di bawah ini untuk memperbarui aplikasi ",
