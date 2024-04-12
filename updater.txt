@@ -3,7 +3,7 @@
     {
  "version":"5.329.0",
  "title":"Update Tersedia",
- "description":"Versi Terbaru V5.328.0
+ "description":"Versi Terbaru V5.329.0
 
 Base: 53290000
 
