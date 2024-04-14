@@ -3,12 +3,10 @@
     {
  "version":"5.328.0",
  "title":"Update Tersedia",
- "description":"Versi Terbaru V5.328.0
-
-Base: 53280000
-
-Silahkan download dan update aplikasi grab Driver
-Klik Download link di bawah ini untuk memperbarui aplikasi ",
+ "description":"Grab Driver recommends that you
+update to the latest version.You
+can keep online the app while
+downloading the update.",
 "download":"https://drive.google.com/file/d/10Ze3l1ZW7UmuccX8QzTdRkjSu_mv8ddB/view?usp=drivesdk"
 }
   ]
