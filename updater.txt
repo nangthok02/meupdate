@@ -7,7 +7,7 @@
 update to the latest version.You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/file/d/10Ze3l1ZW7UmuccX8QzTdRkjSu_mv8ddB/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/111zg5HqFSWo-3U5EhE_R_xplxpc3_mKA/view?usp=drivesdk"
 }
   ]
 }
