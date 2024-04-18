@@ -1,13 +1,13 @@
 {
   "salmod_update": [
     {
- "version":"5.328.0",
+ "version":"5.329.0",
  "title":"Update Tersedia",
  "description":"Grab Driver recommends that you
-update to the latest version.You
+update to the latest version 5.329.0 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/file/d/111zg5HqFSWo-3U5EhE_R_xplxpc3_mKA/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/13_lL03R4bJ8kes1BOAbWw8ew8p5Uh6N7/view?usp=drivesdk"
 }
   ]
 }
