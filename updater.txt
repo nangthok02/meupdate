@@ -3,10 +3,10 @@
     {
  "version":"5.329.0",
  "title":"Update Tersedia",
- "description":"Grab Driver recommends that you
-update to the latest version 5.329.0 You
-can keep online the app while
-downloading the update.",
+ "description":"Salmod Grab Driver merekomendasikan Anda
+perbarui ke versi terbaru 5.329.0 Anda
+dapat tetap online aplikasinya sementara
+mengunduh pembaruan.",
 "download":"https://drive.google.com/file/d/13_lL03R4bJ8kes1BOAbWw8ew8p5Uh6N7/view?usp=drivesdk"
 }
   ]
